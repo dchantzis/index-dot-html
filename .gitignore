@@ -1,0 +1,8 @@
+# Ignore specifications folder
+images/fullsize/*
+images/other/*
+images/thumbs/*
+
+# Ignore Thumbs.db and DS_Store
+._DS_Store
+Thumbs.db

@@ -1,0 +1,27 @@
+/* TEAM */
+
+	Dimitrios Chantzis
+	Contact: chantzis.dimitrios@gmail.com
+	Website: www.dimitrioschantzis.com
+
+	Dimitrios Patrikios
+	Contact: dimpatris@gmail.com
+
+	Siyao Chan
+	Contact: siyao.chan@gmail.com
+
+/* THANKS */
+
+	The University of Edinburgh
+	Website: www.ed.ac.uk
+	Location: Edinburgh, Scotland, UK
+
+	Project supervisor: Dr Chris Speed
+	Contact: c.speed@eca.ac.uk
+
+/* SITE */
+	Last update: 2010
+	Language: English
+	Doctype:HTML
+	IDE: Notepad++, Photoshop
+
