@@ -45,3 +45,7 @@ For more information please visit [index-dot-html] (http://index-dot-html/).
 ![Image 4](index-dot-html.nfshost.com/images/screenshots/screenshot-4.jpg)
 
 ![Image 5](index-dot-html.nfshost.com/images/screenshots/screenshot-5.jpg)
+
+![Image 6](index-dot-html.nfshost.com/images/screenshots/screenshot-6.jpg)
+
+![Image 7](index-dot-html.nfshost.com/images/screenshots/screenshot-7.jpg)
