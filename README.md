@@ -3,7 +3,7 @@
 ## Index[dot]html
 **Built date:** Early 2010
 
-**Website URL:** [index-dot-html.nfshost.com] (http://index-dot-html.nfshost.com)
+<!-- **Website URL:** [index-dot-html.nfshost.com] (http://index-dot-html.nfshost.com) -->
 **Git Repo:** [https://github.com/dchantzis/index-dot-html](https://github.com/dchantzis/index-dot-html)
 
 Index.html is a semester group project participating in the "Digital Media Studio Project (DMSP)" for the MSc in Design and Digital Media (2009-2010) at the University of Edinburgh.
