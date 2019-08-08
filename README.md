@@ -36,16 +36,16 @@ For more information please visit [index-dot-html] (http://index-dot-html/).
 - <https://github.com/dchantzis>
 
 ## Screenshots
-![Image 1](http://index-dot-html.nfshost.com/images/screenshots/screenshot-1.jpg)
+![Image 1](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/index-dot-html/screenshot-1.jpg)
 
-![Image 2](http://index-dot-html.nfshost.com/images/screenshots/screenshot-2.jpg)
+![Image 2](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/index-dot-html/screenshot-2.jpg)
 
-![Image 3](http://index-dot-html.nfshost.com/images/screenshots/screenshot-3.jpg)
+![Image 3](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/index-dot-html/screenshot-3.jpg)
 
-![Image 4](http://index-dot-html.nfshost.com/images/screenshots/screenshot-4.jpg)
+![Image 4](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/index-dot-html/screenshot-4.jpg)
 
-![Image 5](http://index-dot-html.nfshost.com/images/screenshots/screenshot-5.jpg)
+![Image 5](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/index-dot-html/screenshot-5.jpg)
 
-![Image 6](http://index-dot-html.nfshost.com/images/screenshots/screenshot-6.jpg)
+![Image 6](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/index-dot-html/screenshot-6.jpg)
 
-![Image 7](http://index-dot-html.nfshost.com/images/screenshots/screenshot-7.jpg)
+![Image 7](https://s3-eu-west-1.amazonaws.com/dimitrioschantzis.com/projects/index-dot-html/screenshot-7.jpg)
